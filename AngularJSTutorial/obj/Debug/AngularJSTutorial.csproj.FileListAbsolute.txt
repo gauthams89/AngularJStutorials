@@ -1,0 +1,6 @@
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\bin\AngularJSTutorial.dll.config
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\bin\AngularJSTutorial.dll
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\bin\AngularJSTutorial.pdb
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\obj\Debug\AngularJSTutorial.csprojResolveAssemblyReference.cache
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\obj\Debug\AngularJSTutorial.dll
+D:\SampleProjects\AngularJSTutorial\AngularJSTutorial\obj\Debug\AngularJSTutorial.pdb
